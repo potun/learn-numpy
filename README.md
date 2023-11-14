@@ -12,3 +12,7 @@ This repository is a space for learning the basics of the NumPy package. Let's g
 ## 2023-11-08
 - Used SVD to generate a compressed approximation of an image.
 - Completed NumPy Tutorials > NumPy Features > [Linear Algebra on n-dimensional arrays](https://numpy.org/numpy-tutorials/content/tutorial-svd.html)
+
+## 2023-11-13
+- Save and load your NumPy arrays using `numpy.savez` and `numpy.load`
+- Save data to a csv file using 
